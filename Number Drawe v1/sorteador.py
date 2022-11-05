@@ -117,5 +117,10 @@ time.sleep(5)
 print('Script- (ES) HECHO POR / (EN) MADE BY \U0001f60e= ') ,time.sleep(1.1),print(colored('E','green')), time.sleep(1.1),print(colored('d','blue')),time.sleep(1.1),print(colored('w','red')),
 time.sleep(1.1),print(colored('i','white')),time.sleep(1.1),print(colored('n','yellow')),time.sleep(1.1),print(colored('H','cyan')),time.sleep(1.1),print(colored('P','magenta'))
 time.sleep(1.5),print("\u2764\uFE0F")
+
+print(colored('My github','blue'))
+
+print(colored('https://github.com/xGowther2102/','green'))
+
 time.sleep(15)
 os.system('cls')
