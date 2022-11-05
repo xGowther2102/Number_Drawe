@@ -1,4 +1,4 @@
-# Number_Drawe
+# Number_Drawe V1
 Español
 ----------------------------------------------------------------------------------
 Sorteador de Números para tus concursos, sorteos, etc. Basado en Python 
@@ -34,3 +34,17 @@ ________________________________________________________________________________
 Note: Some libraries may already be included after installing Python for the first time.
 
 ____________________________________________________________________________________
+
+
+
+SCREENSHOT:
+
+![Captura de pantalla (38)](https://user-images.githubusercontent.com/112715547/200113017-f48d55ff-65e1-4d74-9147-28a260d534e6.png)
+----------------------------------------------------------------------------------
+![Captura de pantalla (39)](https://user-images.githubusercontent.com/112715547/200113020-0a83c2cc-ca38-4770-9728-50b89c6349d6.png)
+----------------------------------------------------------------------------------
+![Captura de pantalla (40)](https://user-images.githubusercontent.com/112715547/200113021-644d4238-4236-4053-92b7-97c69cfe74d8.png)
+----------------------------------------------------------------------------------
+
+
+My first proyect - Thanks
