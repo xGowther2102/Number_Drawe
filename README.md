@@ -1,4 +1,4 @@
-# Number_Drawe V1
+# Number_Drawe v1.1
 Español
 ----------------------------------------------------------------------------------
 Sorteador de Números para tus concursos, sorteos, etc. Basado en Python 
@@ -48,3 +48,13 @@ SCREENSHOT:
 
 
 My first proyect - Thanks
+
+----------------------------------------------------------------------------------
+Changes
+----------------------------------------------------------------------------------
+**v1:**
+> Project start
+
+**v1.1:**
+>  Now as an executable and portable file
+- You can occupy it anywhere
