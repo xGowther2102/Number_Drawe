@@ -57,7 +57,7 @@ Changes
 
 **v1.1:**
 >  Now as an executable and portable file
-- You can occupy it anywhere
+- You can occupy it anywhere (Only Spanish)
 
 
-**You can download it from [_HERE_](https://github.com/xGowther2102/Number_Drawe/raw/main/Number%20Drawe%20v1/SORTEADOR.zip)**
+**You can download it from [_HERE_](https://github.com/xGowther2102/Number_Drawe/raw/main/Number%20Drawe%20v1/Sorteador_es.zip)**
