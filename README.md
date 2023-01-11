@@ -56,10 +56,10 @@ Changes
 > Project start
 
 **v1.1:**
->  Now as an executable and portable file
+>  Now as an executable and portable file - 
 **You can download it from [_HERE_](https://github.com/xGowther2102/Number_Drawe/raw/main/Number%20Drawe%20v1/Sorteador_es.zip)** (Only Spanish)
 - You can occupy it anywhere
 
 **v1.2**
->  Now in english
+>  Now in english - 
 **You can download it from [_HERE_](https://github.com/xGowther2102/Number_Drawe/raw/main/Number%20Drawe%20v1/sorteador_en.zip)** (Only English)
