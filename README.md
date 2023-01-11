@@ -1,4 +1,4 @@
-# Number_Drawe v1.1
+# Number_Drawe v1.2
 Español
 ----------------------------------------------------------------------------------
 Sorteador de Números para tus concursos, sorteos, etc. Basado en Python 
@@ -57,9 +57,9 @@ Changes
 
 **v1.1:**
 >  Now as an executable and portable file
-**You can download it from [_HERE_](https://github.com/xGowther2102/Number_Drawe/raw/main/Number%20Drawe%20v1/Sorteador_es.zip) (Only Spanish)*
+**You can download it from [_HERE_](https://github.com/xGowther2102/Number_Drawe/raw/main/Number%20Drawe%20v1/Sorteador_es.zip)** (Only Spanish)
 - You can occupy it anywhere
 
 **v1.2**
 >  Now in english
-**You can download it from [_HERE_](https://github.com/xGowther2102/Number_Drawe/raw/main/Number%20Drawe%20v1/sorteador_en.zip) (Only Enlish)
+**You can download it from [_HERE_](https://github.com/xGowther2102/Number_Drawe/raw/main/Number%20Drawe%20v1/sorteador_en.zip)** (Only English)
