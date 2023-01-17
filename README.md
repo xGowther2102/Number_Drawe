@@ -63,3 +63,15 @@ Changes
 **v1.2**
 >  Now in english - 
 **You can download it from [_HERE_](https://github.com/xGowther2102/Number_Drawe/raw/main/Number%20Drawe%20v1/sorteador_en.zip)** (Only English)
+
+----------------------------------------------------------------------------------
+Note
+----------------------------------------------------------------------------------
+
+The Spanish version has a range of 100 random numbers
+
+The English version has a range of 250 random numbers.
+
+**If you want to modify the range we recommend the Python script, so that you can also modify everything to your liking**
+
+_**Soon it will be the range that you want**_
